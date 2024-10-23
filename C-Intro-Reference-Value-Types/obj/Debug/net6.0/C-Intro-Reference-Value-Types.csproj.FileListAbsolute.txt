@@ -1,0 +1,15 @@
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/bin/Debug/net6.0/C-Intro-Reference-Value-Types
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/bin/Debug/net6.0/C-Intro-Reference-Value-Types.deps.json
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/bin/Debug/net6.0/C-Intro-Reference-Value-Types.runtimeconfig.json
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/bin/Debug/net6.0/C-Intro-Reference-Value-Types.dll
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/bin/Debug/net6.0/C-Intro-Reference-Value-Types.pdb
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/obj/Debug/net6.0/C-Intro-Reference-Value-Types.csproj.AssemblyReference.cache
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/obj/Debug/net6.0/C-Intro-Reference-Value-Types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/obj/Debug/net6.0/C-Intro-Reference-Value-Types.AssemblyInfoInputs.cache
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/obj/Debug/net6.0/C-Intro-Reference-Value-Types.AssemblyInfo.cs
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/obj/Debug/net6.0/C-Intro-Reference-Value-Types.csproj.CoreCompileInputs.cache
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/obj/Debug/net6.0/C-Intro-Reference-Value-Types.dll
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/obj/Debug/net6.0/refint/C-Intro-Reference-Value-Types.dll
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/obj/Debug/net6.0/C-Intro-Reference-Value-Types.pdb
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/obj/Debug/net6.0/C-Intro-Reference-Value-Types.genruntimeconfig.cache
+/Users/limaaliyeva/pb202/desktop/pb202group/C-Intro-Reference-Value-Types/C-Intro-Reference-Value-Types/obj/Debug/net6.0/ref/C-Intro-Reference-Value-Types.dll

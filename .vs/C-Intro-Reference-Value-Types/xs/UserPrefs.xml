@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{928DD14E-1095-4C07-926A-A85E1F9B507A}|Default">
+  <MonoDevelop.Ide.ItemProperties.C-Intro-Reference-Value-Types PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C-Intro-Reference-Value-Types/Program.cs">
+    <Files>
+      <File FileName="C-Intro-Reference-Value-Types/Program.cs" Line="122" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C-Intro-Reference-Value-Types" expanded="True">
+            <Node name="C-Intro-Reference-Value-Types">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
